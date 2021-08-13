@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-v2/static/css/main.5acdc12e.chunk.css",
-    "main.js": "/portfolio-v2/static/js/main.a7c0cd30.chunk.js",
-    "main.js.map": "/portfolio-v2/static/js/main.a7c0cd30.chunk.js.map",
+    "main.js": "/portfolio-v2/static/js/main.1c89f0f0.chunk.js",
+    "main.js.map": "/portfolio-v2/static/js/main.1c89f0f0.chunk.js.map",
     "runtime-main.js": "/portfolio-v2/static/js/runtime-main.a8030743.js",
     "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.a8030743.js.map",
     "static/js/2.bb8a4e19.chunk.js": "/portfolio-v2/static/js/2.bb8a4e19.chunk.js",
@@ -10,12 +10,16 @@
     "index.html": "/portfolio-v2/index.html",
     "static/css/main.5acdc12e.chunk.css.map": "/portfolio-v2/static/css/main.5acdc12e.chunk.css.map",
     "static/js/2.bb8a4e19.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.bb8a4e19.chunk.js.LICENSE.txt",
-    "static/media/home.541f8179.svg": "/portfolio-v2/static/media/home.541f8179.svg"
+    "static/media/adopt-animals.b7a852ac.gif": "/portfolio-v2/static/media/adopt-animals.b7a852ac.gif",
+    "static/media/efechat.9080dbdb.gif": "/portfolio-v2/static/media/efechat.9080dbdb.gif",
+    "static/media/home.541f8179.svg": "/portfolio-v2/static/media/home.541f8179.svg",
+    "static/media/portfolio.43c08188.gif": "/portfolio-v2/static/media/portfolio.43c08188.gif",
+    "static/media/todo.d7633def.png": "/portfolio-v2/static/media/todo.d7633def.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a8030743.js",
     "static/js/2.bb8a4e19.chunk.js",
     "static/css/main.5acdc12e.chunk.css",
-    "static/js/main.a7c0cd30.chunk.js"
+    "static/js/main.1c89f0f0.chunk.js"
   ]
 }
