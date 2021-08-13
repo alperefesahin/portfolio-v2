@@ -26,6 +26,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -34,7 +35,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/alper-efe-sahin/portfolio-v2",
+  "homepage": "https://alper-efe-sahin.github.io/portfolio-v2",
   "browserslist": {
     "production": [
       ">0.2%",
