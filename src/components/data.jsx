@@ -45,6 +45,8 @@ export const skills = [
   "Python",
   "JavaScript",
   "HTML5",
+  "Typescript",
+  "Angular",
   "CSS3",
   "Flutter",
   "Dart",
