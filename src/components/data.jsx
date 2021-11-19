@@ -2,9 +2,17 @@ import todo from "../Assets/gifs/todo.png";
 import efeChat from "../Assets/gifs/efechat.gif";
 import adoptAnimals from "../Assets/gifs/adopt-animals.gif";
 import portfolio from "../Assets/gifs/portfolio.gif";
-
+import iytecepte from "../Assets/gifs/iytecepte.png";
 
 export const projects = [
+  {
+    title: "İYTE Cepte",
+    subtitle: "Events App for the IZTECH on Google Play",
+    description:
+      "Places, communities, and companies shares events etc. and users can see their posts. Also users can see bus times.",
+    image: `${iytecepte}`,
+    link: "https://play.google.com/store/apps/details?id=com.efe.iyte_cepte",
+  },
   {
     title: "EfeChat",
     subtitle: "React.js and Frameworks",

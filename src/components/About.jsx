@@ -32,8 +32,8 @@ export default function About() {
               I fell in love with programming and I have at least learnt
               something, I think 🤷‍♂️... I am fluent in classics like Java,
               Javascript, Flutter and Python. My field of Interest's are
-              building new Web Technologies and Products and also in areas
-              related to Deep Learning and Natural Launguage Processing.
+              building new Mobile Technologies and Products. I have an app on
+              Google play, you can see in below.
             </p>
             <div className="flex justify-center">
               <a
